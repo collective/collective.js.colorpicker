@@ -26,6 +26,7 @@ setup(name='collective.js.colorpicker',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
+          'collective.js.jquery'
       ],
       entry_points="""
       # -*- Entry points: -*-
