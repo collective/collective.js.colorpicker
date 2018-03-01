@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts">
+  <javascript remove="True" id="++resource++collective.js.colorpicker.js/eye.js"/>
+  <javascript remove="True" id="++resource++collective.js.colorpicker.js/utils.js"/>
+  <javascript remove="True" id="++resource++collective.js.colorpicker.js/colorpicker.js"/>
+</object>
